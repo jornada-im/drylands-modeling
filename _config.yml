@@ -1,0 +1,6 @@
+theme: minima
+title: "Drylands Modeling Team page"
+description: "Stuff about drylands modeling at the Jornada"
+logo: ./img/logo-footer.svg
+show_downloads: false
+highlighter: rouge
