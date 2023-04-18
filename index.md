@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to the Jornada ~~Fashion~~ Drylands Modeling Team page. 
+Welcome to the Jornada ~~Fashion~~Drylands Modeling Team page. 
 
 **This site is a work in progress.** Report problems and suggest additions to Greg (<gmaurer@nmsu.edu>). 
 
